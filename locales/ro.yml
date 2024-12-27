@@ -23,9 +23,9 @@ ro:
       v4: Software gratuit pentru autonomie
       v5: Confidențialitate
       v6: Transparență, trasabilitate și integritate
-      v7: Continuous improvement and collaboration between organizations
+      v7: Îmbunătățire continuă și colaborare între organizații
     values_cta: Citiți contractul social
-    values_intro: "<p>From the beginning, Decidim has a social contract that includes the values of the project.</p><p>All members of the Decidim Free Software Association undertake to respect this contract.</p>"
+    values_intro: "<p>De la început, Decidim are un contract social care include valorile proiectului.</p><p>Toți membrii Asociației Software-ului Liber Decidim se angajează să respecte acest contract.</p>"
     values_title: Valorile noastre
   alert:
     button: Alătură-te
@@ -85,19 +85,19 @@ ro:
         question: Cine folosește Decidim?
       q03:
         answer: Easily configure participatory processes Do you want to make a strategic plan? Or discuss new regulations? Or discuss a new square or a public building to achieve the common good? Thanks to Decidim you will be able to configure participation spaces (initiatives, assemblies, processes or consultations) and enrich them through the multiple available components (face-to-face meetings, surveys, proposals, voting, follow-up of results, comments and many more).
-        question: What can a Decidim administrator do?
+        question: Ce poate face un administrator Decidim?
       q04:
         answer: Decidim makes it possible for thousands of people to organize themselves democratically by making proposals, attending public meetings, fostering decision-making discussions, deciding through different forms of voting and monitoring the implementation of decisions.
-        question: What can a participant (user) of Decidim do?
+        question: Ce poate face un participant (utilizator) cu Decidim?
       q05:
-        answer: Yes, we have an [online demo](/demo).
+        answer: Da, avem un [demo online](/demo).
         question: Do you have a Demo? I want to use Decidim now, without installing it, to see how it works.
       q06:
         answer: We release a new version approximately every month. See the [record of versions](https://github.com/decidim/decidim/releases).
-        question: How often is the platform updated?
+        question: Cât de des este actualizată platforma?
       q07:
         answer: Installing Decidim is easy but you need some knowledge and technical requirements. See the [documentation for installing Decidim](https://docs.decidim.org/en/install/).
-        question: What do I need to install Decidim?
+        question: Ce nevoie ca să instalez Decidim?
       q08:
         answer: You can find the [roadmap of new features of the project at GitHub](https://github.com/decidim/decidim/projects/16).
         question: Where can I find the project roadmap and the planned features?
@@ -115,13 +115,13 @@ ro:
         question: Există vreun tutorial pentru a începe configurarea?
       q13:
         answer: That's how we call our Code of Democratic Guarantees and Democratic Collaboration. All members of the community must endorse the [Social Contract](http://decidim.org/contract).
-        question: What is the Social Contract?
+        question: Ce este contractul social?
       q14:
         answer: 'There are many differences: features, flexibility, architecture, modularity, etc. We have [published a post](/blog/2019-01-14-consul-comparison/) to try to answer this question.'
         question: What are the differences with Consul Project / Decide Madrid?
       q15:
         answer: "[Metadecidim](http://meta.decidim.org) is the community of Decidim that collaborates in the design of the platform and the construction of the Decidim project. We meet regularly through the Community Meetings, for issues related to the technological aspects of the platform and the Labs witc are [Research](https://meta.decidim.org/assemblies/eix-lab) oriented meetings. Our annual conference is Decidim Fest. Go to [meta.decidim.org](http://meta.decidim.org) to follow the calls closely and if you want to join the community. We'd love to ;-)"
-        question: What is the Metadecidim community?
+        question: Ce este comunitatea Metadecidim?
       q16:
         answer: Of course you can. People do so through participatory processes, debates, translations, etc. that you might find in Metadecidim. Decidim was born in Barcelona and that is why there is a strong territorial bond with this city, but above all, it's a project for the commons.
         question: Can I join the Metadecidim community even if I don't live in Barcelona?
@@ -130,7 +130,7 @@ ro:
         question: What kind of members you accept into the Metadecidim community?
       q18:
         answer: The "Asociacion de Software Libre Decidim" (The Decidim Free Software Association) is a democratic association for the governance of the Decidim community. It was founded on [February 16, 2019 in an extraordinary assembly of the community](https://meta.decidim.org/processes/decidim-gov/f/959/meetings/1169), with the approval of the organization statutes.
-        question: What is the Decidim Association?
+        question: Ce este Asociația Decidim?
       q19:
         answer: In the [general assembly of the Decidim Association](https://meta.decidim.org/assemblies/general-assembly-association) you can find more info abous us, follow the activity of the meetings and check relevant information (statutes, legal agreements, the internal regulations)
         question: How can I get more information about the Decidim Association?
@@ -148,7 +148,7 @@ ro:
         question: Sprijiniți instituțiile?
       q24:
         answer: Decidim and the Decidim logo are registered by the Association, they cannot be used as a commercial product nor cannot be sold. If used, the credit has to be referenced to the project. You can read more about this in our [Trademark policy](/trademark-policy).
-        question: What is Decidim's trademark policy?
+        question: Ce este politica mărcilor comerciale a lui Decidim?
     subtitle: If you can’t find your question answered below, contact us at hola@decidim.org
     title: Întrebări frecvente
     types:
@@ -156,8 +156,8 @@ ro:
       association: Asociație
       community: Community and social contract
       features: Roadmap and features
-      install: Installation and license
-      installation: Installation and license
+      install: Instalare și licență
+      installation: Instalare și licență
       users: Utilizatori și roluri
   features:
     intro: "<p>You can use Decidim in a public or private organisation, with hundreds or thousands of potential participants, such as a city council, an association, a university, an NGO, a trade union, a neighbourhood association or a cooperative...</p><p>Thanks to Decidim you will be able to configure <strong>spaces</strong> for participation (initiatives, assemblies, processes or consultations) and enrich them through the multiple available <strong>components</strong> (face-to-face meetings, surveys, proposals, voting, follow-up of results, <strong>comments</strong> and many more).</p>"
@@ -258,7 +258,7 @@ ro:
       title: Decidim in your city
     intro: It’s a free/libre and open-source web-based software, maintained by an extense and active community. You can use Decidim in a public or private organisation, with hundreds or thousands of potential participants, such as a city council, an association, a university, an NGO, a trade union, a neighbourhood association or a cooperative...
     section2:
-      link: Explore all features
+      link: Explorați toate funcțiile
       subtitle: Decidim’s flexible features are designed to serve both small and large collectives, public and private organisations, with hundreds or thousands of potential users.
       title: Is Decidim the right tool for you?
     section3:
@@ -283,34 +283,34 @@ ro:
   index:
     cards:
       card1:
-        content: We can help configure a system of democratic governance in all kinds of organizations.
+        content: Putem ajuta la configurarea unui sistem de guvernare democratică în toate tipurile de organizații.
         link: Caracteristicile noastre
-        title: Implementing a flexible democratic system
+        title: Punerea în aplicare a unui sistem democratic flexibil
       card2:
-        content: Decidim ensures transparency, traceability and integrity of information like never before. It provides security, privacy and confidentiality to all participants.
-        link: Social contract
-        title: We take democracy very seriously
+        content: Decidim asigură transparența, trasabilitatea şi integritatea informațiilor ca niciodată până acum, oferind securitate şi confidențialitate tuturor participanților.
+        link: Contract social
+        title: Tratăm democrația foarte serios
       card3:
-        content: A platform designed entirely with free software, open and collaborative content thanks to the Metadecidim community.
-        link: The community
-        title: It's yours. Use it. Share it. Improve it.
+        content: O platformă proiectată în întregime cu software gratuit, cu conținut deschis și colaborativ datorită comunității Metadecidim.
+        link: Comunitatea
+        title: Este al tău. Folosește-l. Împărtășește-l. Îmbunătățește-l.
     hero:
-      cta: Get started
-      intro: Free/libre, open and safe technology.<br/>With all democratic guarantees.<br/>Reprogramming democracy is now possible with Decidim.
+      cta: Începeți acum
+      intro: Tehnologie liberă, deschisă și sigură.<br/>Cu toate garanțiile democratice.<br/>Reprogramarea democrației este posibilă cu Decidim.
       subheading: Decidim is a digital platform for citizen participation
     subhero:
-      cta: Explore all features
-      feature1: Strategic planning
+      cta: Explorați toate funcțiile
+      feature1: Planificarea strategică
       feature2: Procese participative
       feature3: Adunări
-      feature4: Initiatives and citizen consultations
-      feature5: Participatory budgeting
+      feature4: Inițiative și consultări ale cetățenilor
+      feature5: Buget participativ
       feature6: Networked communication
       intro: Decidim ajută cetăţenii, organizaţiile şi instituţiile publice să se autoorganizeze democratic la toate nivelurile.
     used_by:
-      heading: Hundreds of organizations around the world trust Decidim for their democratic processes
-      link: Discover how
-      title: Already using Decidim
+      heading: Sute de organizații din întreaga lume au încredere în Decidim pentru procesele lor democratice
+      link: Descoperiți cum
+      title: Utilizatori Decidim
   legal-notice:
     section-1:
       paragraph: '<p>You are accessing the website of Associació de Software Lliure Decidim ("Decidim", "Us" or "We") available through the web domain <a href="https://decidim.org">https://decidim.org/</a> (hereinafter, the "Website"), domiciled in Sant Adria, Number 20 Fabrica de Creacio, Fabra I Coats, Barcelona, 08030, Spain and ID number G67401174.<p><p><b>You can contact us at: <a href="mailto:hola@decidim.org">hola@decidim.org</a></b></p>'
@@ -391,9 +391,9 @@ ro:
     subtitle: These entities and organizations collaborate with Decidim.
     title: Partners
     type:
+      other: Others
       provider: Service providers
       public: Public institutions
-      technology: Technology partners
   partnership-policy:
     explanation:
       p1: Sustaining Decidim takes time and resources. Several tasks need to be handled, such as reviewing contributions, triaging issues, fixing bugs, writing documentation, and answering general doubts shared by the community. Any organization (enterprise, association, or collective) willing to become a Decidim Partner is committed to contribute to the Decidim Association with a reduced fee of the 3% of the yearly income generated by Decidim activities. In the case of nonprofit organizations, this fee is 1.5%.
@@ -469,13 +469,13 @@ ro:
   testimonials:
     n1:
       org: Primăria din Barcelona (2015-2019)
-      quote: Datorită Decidim, la Barcelona am reuşit să coelaborăm un plan de oraş strategic împreună cu cetăţenii. În 2016 am inaugurat Planul de acțiune municipal sub forma unui proces participativ prin Decidim Barcelona. În prezent, acest plan include aproape 7 000 de propuneri din partea cetățenilor. Unul dintre avantajele utilizării acestei platforme este că puteţi monitoriza în orice moment stadiul punerii în aplicare a propunerilor aprobate.
+      quote: Datorită Decidim, la Barcelona am reuşit să coelaborăm un plan strategic de oraş împreună cu cetăţenii. În 2016 am inaugurat Planul de acțiune municipal sub forma unui proces participativ prin Decidim Barcelona. În prezent, acest plan include aproape 7 000 de propuneri din partea cetățenilor. Unul dintre avantajele utilizării acestei platforme este că puteţi monitoriza în orice moment stadiul punerii în aplicare a propunerilor aprobate.
     n2:
       org: Som Energia
       quote: Odată cu punerea în aplicare a Decidim în Som Energia am generat un spaţiu mai bun pentru participare. Am lansat instrumentul în 2018, găzduirea Adunării Generale a Cooperativei şi câteva luni mai târziu am dezbătut despre Reproiectarea imaginilor şi dezvoltarea colaborativă a Şcolii Som Energia, printre alte procese participative. În câteva luni, au fost înregistrate peste 3 500 de participanți și 5 procese participative; 3 adunări funcţionează şi peste 1 300 de voturi în cadrul ultimului vot al Adunării Generale.
     n3:
-      org: Președintele municipal al orașului Me·rida Yucataouncn, Mexic.
-      quote: Platforma digitală Decide Meeartha a fost o oportunitate care a fost mai deschisă ca niciodată înainte de mecanismele de participare a cetățenilor la elaborarea Planului de Dezvoltare Municipală al MeThererida 2018-2021. Am avut peste 3.000 de interacţiuni între cetăţeni, inclusiv propuneri, comentarii, sugestii și sprijin pentru obținerea celui mai mare consens posibil cu privire la ce este mai bine pentru orașul nostru. Fără îndoială, platforma Decide Me·rida va continua să fie aliatul nostru pentru a transforma Meτ rida într-o societate din ce în ce mai participativă.
+      org: Președintele municipal al orașului Mérida Yucatán, Mexic
+      quote: Platforma digitală Decide Mérida a fost o oportunitate care a deschis ca niciodată mecanismele de participare a cetățenilor la elaborarea Planului de Dezvoltare Municipală al Mérida 2018-2021. Am avut peste 3.000 de interacţiuni între cetăţeni, inclusiv propuneri, comentarii, sugestii și sprijin pentru obținerea celui mai mare consens posibil cu privire la ce este mai bine pentru orașul nostru. Fără îndoială, platforma Decide Mérida va continua să fie aliatul nostru pentru a transforma Mérida într-o societate din ce în ce mai participativă.
     n4:
       org: Orașul Helsinki
       quote: Apreciem că este construită pe democrație și, prin urmare, democrația este un obiectiv important. Principiile democratice precum responsabilitatea, egalitatea și transparența se află în centrul proiectării.
@@ -490,7 +490,7 @@ ro:
       quote: The process started in October 2019 at the European Commission’s DG Communication and eDemocracy unit at the Joint Research Centre, the European Commission's science and knowledge service. An analysis of the needs of the Conference and which tools fit those, lead to choosing the open source tool Decidim for its technical maturity, broad community and adaptability.
     n8:
       org: Pipeline to Power, working for NYC Civic Engagement Commission
-      quote: Part of what makes Decidim so powerful is that it adds a level of abstraction to the work separating out  the steps of a process and the activities associated with the process. That’s part of the information architecture, so that not only you are saying what is happening at each step but different parts of Decidim behave differently depending on when you are doing or depending on what step in the process you are in. The fact that that’s customizable really allows Decidim to be moulded to how we are doing our work and not our work to be moulded.
+      quote: O parte din ceea ce îl face pe Decidim atât de puternic este că adaugă un nivel de abstracţie la munca care separă paşii unui proces şi activităţile asociate procesului. Aceasta face parte din arhitectura informaţională; astfel încât nu numai că spui ce se întâmplă la fiecare pas, dar diferitele părţi ale Decidim se comportă diferit în funcţie de momentul în care eşti sau în funcţie de pasul în care te afli. Faptul că acest lucru este personalizabil permite ca Decidim să fie modelat dupa cum ne facem treaba, şi nu munca noastră să fie modelată după procesele disponibile in aplicaţie.
   thanks:
     message: Vă mulțumim că ne-ați contactat, vă vom contacta în curând.
     title: Vă mulţumim pentru e-mail
@@ -519,25 +519,27 @@ ro:
     p5: This trademark policy page was based in <a href="%{rails_url}">Ruby on Rails</a> and <a href="%{wordpress_url}">Wordpress Foundation</a>.
     title: Trademark policy
   used_by:
-    cta: Get started
+    cta: Începeți acum
     disclaimer: Logos are the intellectual property of their respective copyright holders.<br>They do not fall under the Creative Commons By-SA license the rest of the site's contents are licensed with.
     facts:
-      f1: instances
-      f2: countries
-      f3: institutions
-      f4: organizations
-      f5: participants
-      f6: processes
-      f7: proposals
-      f8: comments
-      f9: meetings
+      type:
+        instances: instances
+        countries: countries
+        institutions: institutions
+        organizations: organizations
+        participants: participants
+        processes: processes
+        proposals: proposals
+        comments: comments
+        meetings: meetings
       subtitle: Decidim keeps growing and being adopted by organizations and the community.
       title: Facts & Figures
     filters:
       f0: See all
-      f1: Government
+      f1: Governments
       f2: Cities
       f3: NGOs
+      f4: Universities
     intro: You can use Decidim in a public or private organisation, with hundreds or thousands of potential participants, such as a city council, an association, a university, an NGO, a trade union, a neighbourhood collective or a cooperative...
     join: Over 400 entities, 250 governamental and 150 grass root communities have chosen Decidim for their democratic processes.
     subtitle: These cities, regions and organizations are already using Decidim

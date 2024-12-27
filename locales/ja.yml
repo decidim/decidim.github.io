@@ -391,9 +391,9 @@ ja:
     subtitle: これらのグループや組織は Decidim と協力します。
     title: パートナー
     type:
+      other: その他
       provider: サービスプロバイダー
       public: 公共機関
-      technology: 技術パートナー
   partnership-policy:
     explanation:
       p1: Decidimを維持するには、時間とリソースが必要です。貢献のレビュー、問題のトリアージ、バグの修正、ドキュメントの作成、およびコミュニティによって共有される一般的な疑問に答えることなど、様々なタスクを扱う必要があります。Decidimパートナーになることを望む組織（企業、協会、団体）は、Decidimでの活動によって発生する年間収入のうち3％の料金を、Decidim Associationに貢献することを約束します。非営利団体の場合は、1.5％となります。
@@ -522,22 +522,24 @@ ja:
     cta: はじめる
     disclaimer: ロゴマークは、それぞれの著作権者の知的財産です。<br>本サイトの他のコンテンツが採用しているクリエイティブ・コモンズの BY-SA ライセンスには該当しません。
     facts:
-      f1: インスタンス
-      f2: 国
-      f3: 機関
-      f4: 組織
-      f5: 参加者
-      f6: プロセス
-      f7: 提案
-      f8: コメント
-      f9: ミーティング
+      type:
+        instances: instances
+        countries: countries
+        institutions: institutions
+        organizations: organizations
+        participants: participants
+        processes: processes
+        proposals: proposals
+        comments: comments
+        meetings: meetings
       subtitle: Decidimは、組織やコミュニティで採用され、成長を続けています。
       title: 実績と図
     filters:
       f0: すべて表示
-      f1: 公共機関
+      f1: Governments
       f2: 都市
       f3: NGO
+      f4: Universities
     intro: Decidimは、数百人、数千人の潜在的な参加者がいる公共または民間の組織、例えば、市区町村議会、協会、大学、NGO、労働組合、近隣の集団や協同組合などで使用することができます...
     join: 400以上の団体、250の政府機関、150の草の根コミュニティが、民主的なプロセスのためにDecidimを選んでいます。
     subtitle: これらの都市、地域、組織はすでにDecidimを使用しています

@@ -355,7 +355,7 @@ fi:
     academy: Akatemia
     association: Yhdistys
     blog: Blogi
-    book: Book
+    book: Kirja
     close_menu: Sulje valikko
     code: Koodi
     community: Yhteisö
@@ -391,9 +391,9 @@ fi:
     subtitle: Nämä yhteisöt ja organisaatiot tekevät yhteistyötä Decidimin kanssa.
     title: Yhteistyökumppanit
     type:
+      other: Muut
       provider: Palvelujentarjoajat
       public: Julkinen sektori
-      technology: Teknologiakumppanit
   partnership-policy:
     explanation:
       p1: Decidim-alustan ylläpito vie aikaa ja resursseja. Ylläpito sisältää useita tehtäviä, kuten osallistujien lähettämän materiaalin arviointia, työtehtävien priorisointia, bugien korjaamista, dokumentaation kirjoittamista ja erilaisiin yhteisön kysymyksiin vastaamista. Jokainen organisaatio (yritys, yhdistys tai järjestö), joka haluaa liittyä Decidim-yhteistyökumppaniksi on sitoutunut maksamaan alennetun 3% maksun vuosittaisesta Decidimin tuottamasta liikevaihdostaan Decidim-yhdistykselle. Voittoa tavoittelemattomille organisaatioille tämä maksu on 1,5%.
@@ -522,15 +522,16 @@ fi:
     cta: Aloita
     disclaimer: Esitetyt logot ovat kyseisten tavaramerkkien haltijoiden omaisuutta.<br>Ne eivät ole Creative Commons By-SA -lisenssin alaista materiaalia, kuten muu tämän sivuston sisältö.
     facts:
-      f1: asennukset
-      f2: maat
-      f3: instituutiot
-      f4: organisaatiot
-      f5: osallistujat
-      f6: prosessit
-      f7: ehdotukset
-      f8: kommentit
-      f9: tapaamiset
+      type:
+        instances: asennusta
+        countries: maata
+        institutions: instituutiota
+        organizations: organisaatiota
+        participants: osallistujaa
+        processes: prosessia
+        proposals: ehdotusta
+        comments: kommenttia
+        meetings: tapaamista
       subtitle: Decidim kasvaa ja on käytössä useissa organisaatioissa ja yhteisöissä.
       title: Tilastoja ja lukuja
     filters:
@@ -538,6 +539,7 @@ fi:
       f1: Hallinnot
       f2: Kaupungit
       f3: Kansalaisjärjestöt
+      f4: Yliopistot
     intro: Voit käyttää Decidimiä julkisessa tai yksityisessä organisaatiossa, jossa on satoja tai tuhansia potentiaalisia osallistujia. Esimerkkejä tällaisista organisaatioista ovat kaupunginvaltuustot, yhdistykset, yliopistot, kansalaisjärjestöt, ammattiliitot, naapuruusyhdistykset, osuuskunnat, jne...
     join: Yli 400 yhteisöä, 250 hallintoelintä ja 150 ruohonjuuriyhteisöä ovat valinneet Decidimin demokraattisten prosessiensa tueksi.
     subtitle: Nämä kaupungit, alueet ja järjestöt käyttävät jo Decidimiä

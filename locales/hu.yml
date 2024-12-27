@@ -391,9 +391,9 @@ hu:
     subtitle: Ezek a szervezetek és szervezetek együttműködnek a Decidimmel.
     title: Partnerek
     type:
+      other: Others
       provider: Szolgáltatók
       public: Közintézmények
-      technology: Technológiai partnerek
   partnership-policy:
     explanation:
       p1: A Decidim fenntartása időt és erőforrásokat igényel. Számos feladatot kell elvégezni, mint például a hozzájárulások felülvizsgálata, a problémák kezelése, a hibák kijavítása, a dokumentáció megírása és a közösség által megosztott általános kétségek megválaszolása. Minden szervezet (vállalkozás, egyesület vagy kollektíva), amely hajlandó Decidim-partnerré válni, vállalja, hogy a Decidim-tevékenységekből származó éves bevétel 3% -ának megfelelő kedvezményes díjjal járul hozzá a Decidim Egyesülethez. Nonprofit szervezetek esetében ez a díj 1,5%.
@@ -522,22 +522,24 @@ hu:
     cta: Kezdjük el
     disclaimer: A logók a megfelelő szerzői jogtulajdonosok szellemi tulajdonát képezik.<br>Nem tartoznak a Creative Commons By-SA licenc alá, amely az oldal többi tartalmának licencét képezi.
     facts:
-      f1: példányok
-      f2: országok
-      f3: intézmények
-      f4: szervezetek
-      f5: résztvevők
-      f6: folyamatok
-      f7: javaslatok
-      f8: hozzászólások
-      f9: találkozók
+      type:
+        instances: instances
+        countries: countries
+        institutions: institutions
+        organizations: organizations
+        participants: participants
+        processes: processes
+        proposals: proposals
+        comments: comments
+        meetings: meetings
       subtitle: A Decidim folyamatosan növekszik, és a szervezetek és a közösség is elfogadja.
       title: Tények és számok
     filters:
       f0: Mindet mutasd
-      f1: Kormányzás
+      f1: Governments
       f2: Városok
       f3: Nem kormányzati szervezetek
+      f4: Universities
     intro: A Decidimet használhatja állami vagy magánszervezetben, több száz vagy több ezer potenciális résztvevővel, például egy önkormányzatnál, egyesületben, egyetemen, civil szervezetben, szakszervezetben vagy egy  szomszédsági tanácsban szövetkezetben....
     join: Több mint 400 szervezet, 250 kormányzati szervezet és 150 helyi közösség választotta a Decidimet demokratikus folyamataihoz.
     subtitle: Ezek a városok, régiók és szervezetek már használják a Decidim-et

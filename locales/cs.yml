@@ -391,9 +391,9 @@ cs:
     subtitle: Tyto subjekty a organizace se společností Decidim spolupracují.
     title: Partneři
     type:
+      other: Ostatní
       provider: Poskytovatelé služeb
       public: Veřejné instituce
-      technology: Technologičtí partneři
   partnership-policy:
     explanation:
       p1: Udržování Decidimu vyžaduje čas a zdroje. Je třeba zvládnout několik úkolů, jako je přezkoumání příspěvků, řešení problémů, oprava chyb, psaní dokumentace a zodpovídání obecných pochybností, které komunita sdílí. Každá organizace (podnik, sdružení nebo kolektiv), která se chce stát partnerem Decidimu, se zavazuje přispívat sdružení Decidim sníženým poplatkem ve výši 3 % ročního příjmu z činnosti Decidimu. V případě neziskových organizací činí tento poplatek 1,5 %.
@@ -522,22 +522,24 @@ cs:
     cta: Začínáme
     disclaimer: Loga jsou duševním vlastnictvím příslušných držitelů autorských práv.<br>Nespadají pod licenci Creative Commons By-SA, kterou je licencován zbytek obsahu stránek.
     facts:
-      f1: instance
-      f2: země
-      f3: instituce
-      f4: organizace
-      f5: účastníci
-      f6: procesy
-      f7: návrhy
-      f8: komentáře
-      f9: setkání
+      type:
+        instances: instance
+        countries: země
+        institutions: instituce
+        organizations: organizace
+        participants: účastníci
+        processes: procesy
+        proposals: návrhy
+        comments: komentáře
+        meetings: schůzky
       subtitle: Decidim neustále roste a je přijímán organizacemi a komunitou.
       title: Fakta a obrázky
     filters:
       f0: Zobrazit vše
-      f1: Vláda
+      f1: Vlády
       f2: Města
       f3: Nevládní organizace
+      f4: Univerzity
     intro: Můžete použít Decidim ve veřejné nebo soukromé organizaci se stovkami nebo tisíci potenciálních účastníků, jako městská rada, sdružení, univerzita, nevládní organizace, odborový svaz, nebo družstvo...
     join: Společnost Decidim si pro své demokratické procesy zvolilo více než 400 subjektů, 250 správních orgánů a 150 místních komunit.
     subtitle: Tato města, regiony a organizace již používají Decidim

@@ -391,9 +391,9 @@ pt-BR:
     subtitle: Essas entidades e organizações colaboram com o Decidim.
     title: Parceiros
     type:
+      other: Others
       provider: Provedores de serviço
       public: Instituições públicas
-      technology: Parceiros de tecnologia
   partnership-policy:
     explanation:
       p1: Manter o Decidim requer tempo e recursos. Várias tarefas precisam ser realizadas, como revisar contribuições, triagem de problemas, corrigir bugs, escrever documentação e responder a dúvidas gerais compartilhadas pela comunidade. Qualquer organização (empresa, associação ou coletivo) que pretenda tornar-se Sócio do Decidim compromete-se a contribuir para a Associação Decidim com uma taxa reduzida de 3% do rendimento anual gerado pelas atividades do Decidim. No caso de organizações sem fins lucrativos, essa taxa é de 1,5%.
@@ -522,22 +522,24 @@ pt-BR:
     cta: Começar
     disclaimer: Os logotipos são propriedade intelectual de seus respectivos detentores de direitos autorais.<br>Eles não estão sob a licença Creative Commons By-SA com a qual o resto do conteúdo do site está licenciado.
     facts:
-      f1: instâncias
-      f2: países
-      f3: instituições
-      f4: organizações
-      f5: participantes
-      f6: processos
-      f7: propostas
-      f8: comentários
-      f9: reuniões
+      type:
+        instances: instances
+        countries: countries
+        institutions: institutions
+        organizations: organizations
+        participants: participants
+        processes: processes
+        proposals: proposals
+        comments: comments
+        meetings: meetings
       subtitle: O Decidim continua crescendo e sendo adotado por organizações e pela comunidade.
       title: Fatos e Figuras
     filters:
       f0: Ver tudo
-      f1: Governo
+      f1: Governments
       f2: Cidades
       f3: ONGs
+      f4: Universities
     intro: Você pode utilizar o Decidim numa organização pública ou privada, com centenas ou milhares de potenciais participantes, como uma câmara municipal, uma associação, uma universidade, uma ONG, um sindicato, uma associação de bairro ou uma cooperativa...
     join: Mais de 400 entidades, 250 entidades governamentais e 150 comunidades populares escolheram o Decidim para seus processos democráticos.
     subtitle: Essas cidades, regiões e organizações já estão usando o Decidim
